@@ -3,6 +3,8 @@
 
 This repo contains a catalogue of my github projects.
 
+You can view my [Github Profile](https://github.com/Palfore) or explore the following projects.
+
 Here are large-scale projects:
 - [Pybiosis](https://github.com/Palfore/Pybiosis): Automation software in python using decorators.
 - [OSRSmath](https://github.com/Palfore/OSRSmath): Game theory and optimization solutions for an online video game.
