@@ -11,6 +11,6 @@ Here are large-scale projects:
 Here are small-scale projects:
 - [Trigonometric Fractals](https://github.com/Palfore/Trigonometric-Fractal): An animation of a geometric fractal.
 - [Relativity Man](https://github.com/Palfore/Relativity-Man): A simple video game demonstrating relativistic physics.
-- [Malchoves-Maze](https://github.com/Palfore/Malchoves-Maze): A rustic game written in C
+- [Malchoves-Maze](https://github.com/Palfore/Malchoves-Maze): A rustic game written in C.
 - [Triple-M](https://github.com/Palfore/Triple-M): The precursor to Pybiosis. Automation software for multiple monitors.
 
