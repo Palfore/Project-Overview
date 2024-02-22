@@ -1,7 +1,7 @@
 # Project & Repository Overview
 
 
-This repo contains a catalogue of my github projects.
+This repo contains a catalogue of my github projects. Almost all of them are written in Python, except for early projects or my performant [Evolution WildFire](https://github.com/Palfore/Evolution-WildFire) project written in C++.
 
 You can also checkout [Palfore.com](https://palfore.com/) for my project showcase explaining them.
 
