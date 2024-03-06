@@ -1,7 +1,7 @@
 # Project & Repository Overview
 
 
-This repo contains a catalogue of my github projects. Almost all of them are written in Python, except for early projects or my performant [Evolution WildFire](https://github.com/Palfore/Evolution-WildFire) project written in C++.
+This repo contains a catalogue of my github projects. 
 
 You can also checkout [Palfore.com](https://palfore.com/) for my project showcase explaining them.
 
@@ -10,17 +10,17 @@ If you'd rather watch some videos, you can checkout the [youtube channel](https:
 ---
 
 Here are large-scale projects:
-- [Pybiosis](https://github.com/Palfore/Pybiosis): Automation software in python using decorators.
-- [OSRSmath](https://github.com/Palfore/OSRSmath): Game theory and optimization solutions for an online video game.
-- [Evolution WildFire](https://github.com/Palfore/Evolution-WildFire): Neural-Network Robotic Simulation.
+- [Pybiosis](https://github.com/Palfore/Pybiosis) [Python]: Automation software in python using decorators.
+- [OSRSmath](https://github.com/Palfore/OSRSmath) [Python]: Game theory and optimization solutions for an online video game.
+- [Evolution WildFire](https://github.com/Palfore/Evolution-WildFire) [C++/OpenGL]: Neural-Network Robotic Simulation.
 
 ---
 
 Here are small-scale projects:
-- [Trigonometric Fractals](https://github.com/Palfore/Trigonometric-Fractal): An animation of a geometric fractal.
-- [Relativity Man](https://github.com/Palfore/Relativity-Man): A simple video game demonstrating relativistic physics.
-- [Malchoves-Maze](https://github.com/Palfore/Malchoves-Maze): A rustic game written in C.
-- [Triple-M](https://github.com/Palfore/Triple-M): The precursor to Pybiosis. Automation software for multiple monitors.
+- [Trigonometric Fractals](https://github.com/Palfore/Trigonometric-Fractal) [Java]: An animation of a geometric fractal.
+- [Relativity Man](https://github.com/Palfore/Relativity-Man) [Python]: A simple video game demonstrating relativistic physics.
+- [Malchoves-Maze](https://github.com/Palfore/Malchoves-Maze) [C]: A rustic game written in C.
+- [Triple-M](https://github.com/Palfore/Triple-M) [Python]: The precursor to Pybiosis. Automation software for multiple monitors.
 
 ---
 Alternatively, you can view my [Github Profile](https://github.com/Palfore).
