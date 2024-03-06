@@ -11,7 +11,7 @@ If you'd rather watch some videos, you can checkout the [youtube channel](https:
 
 Here are large-scale projects:
 - [Pybiosis](https://github.com/Palfore/Pybiosis) [Python]: Automation software in python using decorators.
-- [OSRSmath](https://github.com/Palfore/OSRSmath) [Python]: Game theory and optimization solutions for a large video game.
+- [OSRSmath](https://github.com/Palfore/OSRSmath) [Python]: Game theory and mathematical optimization.
 - [Evolution WildFire](https://github.com/Palfore/Evolution-WildFire) [C++/OpenGL]: Neural-Network Robotic Simulation.
 
 ---
