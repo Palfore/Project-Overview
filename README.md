@@ -17,6 +17,7 @@ Here are large-scale projects:
 ---
 
 Here are small-scale projects:
+- [SimpleGrace](https://github.com/Palfore/SimpleGrace) [Python]: A python wrapper for the scientific plotting tool XMGrace.
 - [Trigonometric Fractals](https://github.com/Palfore/Trigonometric-Fractal) [Java]: An animation of a geometric fractal.
 - [Relativity Man](https://github.com/Palfore/Relativity-Man) [Python]: A simple video game demonstrating relativistic physics.
 - [Malchoves-Maze](https://github.com/Palfore/Malchoves-Maze) [C]: A rustic game written in C.
