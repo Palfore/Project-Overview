@@ -5,14 +5,14 @@ This repo contains a catalogue of my github projects.
 
 You can also checkout [Palfore.com](https://palfore.com/) for my project showcase explaining them.
 
-If you'd rather watch some videos, you can checkout the [youtube channel](https://www.youtube.com/channel/UCB_JCZhjR16dXHrSlX7ANtg).
+If you'd rather watch some videos, you can checkout the [Youtube Channel](https://www.youtube.com/channel/UCB_JCZhjR16dXHrSlX7ANtg).
 
 ---
 
 Here are large-scale projects:
 - [Pybiosis](https://github.com/Palfore/Pybiosis) [Python]: Automation software in python using decorators.
 - [OSRSmath](https://github.com/Palfore/OSRSmath) [Python]: Game theory and mathematical optimization.
-- [Evolution WildFire](https://github.com/Palfore/Evolution-WildFire) [C++/OpenGL]: Neural-Network Robotic Simulation.
+- <strike>Evolution WildFire [C++/OpenGL]: Neural-Network Robotic Simulation.</strike> Check out the [3D Reinforcement Learning Game](https://palfore.com/products.php).
 
 ---
 
